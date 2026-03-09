@@ -105,7 +105,7 @@ Untuk mengubah konten atau tampilan kartu, edit file berikut:
 
 ## Lisensi
 
-Proyek ini bersifat open source. Silakan gunakan, modifikasi, dan bagikan dengan tetap mencantumkan kredit kepada author.
+Proyek ini dirilis di bawah lisensi MIT. Anda bebas menggunakan dan memodifikasinya.
 
 ---
 
