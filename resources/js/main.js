@@ -74,8 +74,7 @@ $(document).ready(function () {
                 $('#whiteFlash').removeClass('flash-active');
             }, 100);
         }, 1200);
-
-        audio.currentTime = 0;
+        
         audio.play();
     });
 
