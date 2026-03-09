@@ -18,7 +18,7 @@ Kartu ucapan digital **Hari Raya Idul Fitri 1447 H / 2026** yang interaktif deng
 
 ## Demo
 
-**Live Preview:** [https://wafarifki.github.io/Kartu-Ucapan-Lebaran-2026/](https://wafarifki.github.io/Kartu-Ucapan-Lebaran-2026/)
+**Live Preview:** [https://rojudin-program.github.io/Kartu-Ucapan-Idul-Fitri-1447H/](https://rojudin-program.github.io/Kartu-Ucapan-Idul-Fitri-1447H/)
 
 ### Contoh URL dengan Personalisasi
 
@@ -98,7 +98,7 @@ Untuk mengubah konten atau tampilan kartu, edit file berikut:
 
 ## Author
 
-**Wafa Rifqi Anafin**
+**Rojudin**
 
 - Website: [wafarifki.com](https://wafarifki.com)
 - GitHub: [wafarifki](https://github.com/wafarifki)
